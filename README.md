@@ -10,6 +10,8 @@ The solution replaced time-consuming, manual reporting cycles with an automated,
 
 This transformation improved reporting efficiency, increased data reliability, and enabled faster, data-driven decision-making across the department.
 
+✅ **By developing this report, I delivered an analysis focused on future pricing risk. The findings informed executive decisions and helped mitigate a potentially significant financial impact.**
+
 # 💡 Background
 
 First of all, let me explain why there was a need for this project.
