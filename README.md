@@ -193,3 +193,5 @@ I have been working in the data domain since 2023, when I transitioned into an a
 My transition into analytics marked the beginning of an ongoing learning process. Projects such as this one allow me to apply and refine my technical and analytical skills in real business environments while delivering measurable value.
 
 ### 🔗 **Visit [my LinkedIn profile](https://www.linkedin.com/in/marcin-czerkas-95150727a/) to learn more.**
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)
